@@ -1,3 +1,11 @@
 theme: jekyll-theme-cayman
 title: Stephen Allwright, Data Scientist
 description: I help organisation utilise large amounts of data
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - cv.md
+  - about.md
