@@ -1,5 +1,8 @@
+---
 layout: page
-title: "About"
+title: About
+---
+
 permalink: https://sallwright.github.io/about
 
 #This is a header
